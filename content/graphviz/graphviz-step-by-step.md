@@ -17,6 +17,10 @@ http://www.graphviz.org/
 ```
 dot test.dot -Tpng -o test.png
 ```
+或者
+```
+dot -Tpng -o test.png test.dot
+```
 
 ## 简单
 
